@@ -1,6 +1,6 @@
 # project_011
 
-npm
+
 
 ## Project setup
 
